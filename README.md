@@ -1,4 +1,4 @@
-# LLM Reliability Platform
+# PayPilot
 
 A RAG-based platform designed to generate evidence-grounded answers and evaluate LLM reliability through claim-level verification.
 
